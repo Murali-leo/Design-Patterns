@@ -57,7 +57,3 @@ These Patterns deal with how inheritance and composition can be used to provide 
 >> Flyweight
 
 >> Proxy
-
-
-
-
