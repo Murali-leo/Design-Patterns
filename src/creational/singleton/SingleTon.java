@@ -1,4 +1,4 @@
-package creational;
+package creational.singleton;
 /*
  * It creates only one instance of its kind exists.
  * It Provides a Single point of access to it.
